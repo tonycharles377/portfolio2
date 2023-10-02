@@ -56,11 +56,12 @@ a:hover {
 }
 
 .logo {
-    font-size: 2rem;
+    font-size: 3rem;
+    font-weight: 600;
 }
 
 .logo:hover {
-    cursor: default;
+    cursor: pointer;
 }
 
 /*HAMBURGER MENU*/
