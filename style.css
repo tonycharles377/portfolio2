@@ -173,6 +173,10 @@ section {
     margin: auto 0;
 }
 
+.profile-pic{
+    border-radius: 10px;
+}
+
 .section__text {
     align-self: center;
     text-align: center;
@@ -281,7 +285,7 @@ section {
 }
 
 .about-pic {
-    border-radius: 2rem;
+    border-radius: 10rem;
 }
 
 .arrow {
